@@ -3,3 +3,4 @@ summa = 0
 for i in sp:
     summa += i
 print(summa)
+print(sp)
